@@ -1,0 +1,12 @@
+Name	Cost	Range	Target	Count	Type	Rarity	Duration
+Arrows	3	4	Air & Ground	1	Spell	Commo	
+Zap	2	2.5	Air & Ground	1	Spell	Commo	
+Fireball	4	2.5	Air & Ground	1	Spell	Rar	
+ Rocket	6	2	Air & Ground	1	Spell	Rar	
+Lightning	6	3.5	Air & Ground	3	Spell	Epi	
+Goblin Barrel	3	1.5	Ground	3	Spell	Epi	
+Rage	2	5	+35%	1	Spell	Epi	
+Freeze	4	3	Air & Ground	1	Spell	Epi	
+Mirror	N+1			1	Spell	Epi	
+Poison	4	3.5	Air & Ground	1	Spell	Epi	10
+Tornado	3	5	Air & Ground	1	Spell	Epi	3

@@ -1,0 +1,17 @@
+Name	Level	Duration
+Rage	1	6
+Rage	2	6.5
+Rage	3	7
+Rage	4	7.5
+Rage	5	8
+Rage	6	8.5
+Rage	7	9
+Rage	8	9.5
+Freeze	1	4
+Freeze	2	4.3
+Freeze	3	4.6
+Freeze	4	4.9
+Freeze	5	5.2
+Freeze	6	5.5
+Freeze	7	5.8
+Freeze	8	6.1

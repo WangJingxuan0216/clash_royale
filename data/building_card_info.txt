@@ -1,0 +1,11 @@
+Name	Cost	Hit Speed	Deploy Time	Lifetime	Range	Target	Type	Rarity
+Cannon	3	0.8	1	30	5.5	Ground	Building	Common
+Tesla	4	0.8	1	40	5.5	Air & Ground	Building	Common
+Goblin Hut	5	4.9	1	60		Air & Ground	Building	Rare
+Tombstone	3	2.9	1	40		Ground	Building	Rare
+Bomb Tower	5	1.6	1	40	6	Ground	Building	Rare
+Barbarian Hut	7	14	1	60		Ground	Building	Rare
+Inferno Tower	5	0.4	1	40	6	Air & Ground	Building	Rare
+Furnace	4	10	1	50		Air & Ground	Building	Rare
+Elixir Collector	6	8.5	1	70			Building	Rare
+X-Bow	6	0.3	4	40	11.5	Ground	Building	Epic

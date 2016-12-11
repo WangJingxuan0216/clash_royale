@@ -1,0 +1,9 @@
+Name	Level	Summon Common	Summon Rare	Summon Epic
+Mirror	1	7	5	2
+Mirror	2	8	6	3
+Mirror	3	9	7	4
+Mirror	4	10	8	5
+Mirror	5	11	9	6
+Mirror	6	12	10	7
+Mirror	7	13	11	8
+Mirror	8	14	12	9

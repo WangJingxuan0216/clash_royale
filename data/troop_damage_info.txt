@@ -1,0 +1,365 @@
+Name	Level	Hitpoints	Damage	Damage Per Second	Other Damage
+Knight	1	660	75	68	0
+Knight	2	726	82	74	0
+Knight	3	798	90	81	0
+Knight	4	877	99	90	0
+Knight	5	963	109	99	0
+Knight	6	1,056	120	109	0
+Knight	7	1,161	132	120	0
+Knight	8	1,273	144	130	0
+Knight	9	1,399	159	144	0
+Knight	10	1,537	174	158	0
+Knight	11	1,689	192	174	0
+Knight	12	1,854	210	190	0
+Knight	13	2,039	231	210	0
+Archers	1	125	41	34	0
+Archers	2	137	45	37	0
+Archers	3	151	49	40	0
+Archers	4	166	54	45	0
+Archers	5	182	59	49	0
+Archers	6	200	65	54	0
+Archers	7	220	72	60	0
+Archers	8	241	79	65	0
+Archers	9	265	86	71	0
+Archers	10	291	95	79	0
+Archers	11	320	104	86	0
+Archers	12	351	114	95	0
+Archers	13	386	125	105	0
+Bomber	1	147	123	64	0
+Bomber	2	161	135	71	0
+Bomber	3	177	148	77	0
+Bomber	4	195	163	85	0
+Bomber	5	214	179	94	0
+Bomber	6	235	196	103	0
+Bomber	7	258	216	113	0
+Bomber	8	283	237	124	0
+Bomber	9	311	260	136	0
+Bomber	10	342	286	150	0
+Bomber	11	376	314	165	0
+Bomber	12	413	345	181	0
+Bomber	13	454	380	200	0
+Spear Goblins	1	52	24	18	0
+Spear Goblins	2	57	26	20	0
+Spear Goblins	3	62	29	22	0
+Spear Goblins	4	69	31	23	0
+Spear Goblins	5	75	35	26	0
+Spear Goblins	6	83	38	29	0
+Spear Goblins	7	91	42	32	0
+Spear Goblins	8	100	46	35	0
+Spear Goblins	9	110	50	38	0
+Spear Goblins	10	121	55	42	0
+Spear Goblins	11	133	61	46	0
+Spear Goblins	12	146	67	51	0
+Spear Goblins	13	160	74	56	0
+Goblins	1	80	50	45	0
+Goblins	2	88	55	50	0
+Goblins	3	96	60	54	0
+Goblins	4	106	66	60	0
+Goblins	5	116	73	66	0
+Goblins	6	128	80	72	0
+Goblins	7	140	88	80	0
+Goblins	8	154	96	87	0
+Goblins	9	169	106	96	0
+Goblins	10	186	116	105	0
+Goblins	11	204	128	116	0
+Goblins	12	224	140	127	0
+Goblins	13	247	154	140	0
+Minion Horde	1	90	40	40	0
+Minion Horde	2	99	44	44	0
+Minion Horde	3	108	48	48	0
+Minion Horde	4	119	53	53	0
+Minion Horde	5	131	58	58	0
+Minion Horde	6	144	64	64	0
+Minion Horde	7	158	70	70	0
+Minion Horde	8	173	77	77	0
+Minion Horde	9	190	84	84	0
+Minion Horde	10	209	93	93	0
+Minion Horde	11	230	102	102	0
+Minion Horde	12	252	112	112	0
+Minion Horde	13	278	123	123	0
+Skeletons	1	32	32	32	0
+Skeletons	2	35	35	35	0
+Skeletons	3	38	38	38	0
+Skeletons	4	42	42	42	0
+Skeletons	5	46	46	46	0
+Skeletons	6	51	51	51	0
+Skeletons	7	56	56	56	0
+Skeletons	8	61	61	61	0
+Skeletons	9	67	67	67	0
+Skeletons	10	74	74	74	0
+Skeletons	11	81	81	81	0
+Skeletons	12	89	89	89	0
+Skeletons	13	98	98	98	0
+Minions	1	90	40	40	0
+Minions	2	99	44	44	0
+Minions	3	108	48	48	0
+Minions	4	119	53	53	0
+Minions	5	131	58	58	0
+Minions	6	144	64	64	0
+Minions	7	158	70	70	0
+Minions	8	173	77	77	0
+Minions	9	190	84	84	0
+Minions	10	209	93	93	0
+Minions	11	230	102	102	0
+Minions	12	252	112	112	0
+Minions	13	278	123	123	0
+Barbarians	1	300	75	50	0
+Barbarians	2	330	82	54	0
+Barbarians	3	363	90	60	0
+Barbarians	4	399	99	66	0
+Barbarians	5	438	109	72	0
+Barbarians	6	480	120	80	0
+Barbarians	7	528	132	88	0
+Barbarians	8	579	144	96	0
+Barbarians	9	636	159	106	0
+Barbarians	10	699	174	116	0
+Barbarians	11	768	192	128	0
+Barbarians	12	843	210	140	0
+Barbarians	13	927	231	154	0
+Fire Spirits	1	43	80	80	0
+Fire Spirits	2	47	88	88	0
+Fire Spirits	3	52	96	96	0
+Fire Spirits	4	57	106	106	0
+Fire Spirits	5	62	116	116	0
+Fire Spirits	6	68	128	128	0
+Fire Spirits	7	75	140	140	0
+Fire Spirits	8	82	154	154	0
+Fire Spirits	9	91	169	169	0
+Fire Spirits	10	100	186	186	0
+Fire Spirits	11	110	204	204	0
+Fire Spirits	12	120	224	224	0
+Fire Spirits	13	132	247	247	0
+Royal Giant	1	1,200	75	44	0
+Royal Giant	2	1,320	85	50	0
+Royal Giant	3	1,452	94	55	0
+Royal Giant	4	1,596	103	60	0
+Royal Giant	5	1,752	109	64	0
+Royal Giant	6	1,920	120	70	0
+Royal Giant	7	2,112	132	77	0
+Royal Giant	8	2,316	144	84	0
+Royal Giant	9	2,544	159	93	0
+Royal Giant	10	2,796	174	102	0
+Royal Giant	11	3,072	192	112	0
+Royal Giant	12	3,372	210	123	0
+Royal Giant	13	3,708	231	135	0
+Elite Barbarians	1	420	110	73	0
+Elite Barbarians	2	462	121	80	0
+Elite Barbarians	3	508	133	88	0
+Elite Barbarians	4	558	146	97	0
+Elite Barbarians	5	613	160	106	0
+Elite Barbarians	6	672	176	117	0
+Elite Barbarians	7	739	193	128	0
+Elite Barbarians	8	810	212	141	0
+Elite Barbarians	9	890	233	155	0
+Elite Barbarians	10	978	256	170	0
+Elite Barbarians	11	1,075	281	187	0
+Elite Barbarians	12	1,180	309	206	0
+Elite Barbarians	13	1,297	339	226	0
+Ice Spirit	1	90	50	50	0
+Ice Spirit	2	99	55	55	0
+Ice Spirit	3	108	60	60	0
+Ice Spirit	4	119	66	66	0
+Ice Spirit	5	131	73	73	0
+Ice Spirit	6	144	80	80	0
+Ice Spirit	7	158	88	88	0
+Ice Spirit	8	173	96	96	0
+Ice Spirit	9	190	106	106	0
+Ice Spirit	10	209	116	116	0
+Ice Spirit	11	230	128	128	0
+Ice Spirit	12	252	140	140	0
+Ice Spirit	13	278	154	154	0
+Giant	1	1,900	120	80	0
+Giant	2	2,090	132	88	0
+Giant	3	2,299	145	96	0
+Giant	4	2,527	159	106	0
+Giant	5	2,774	175	116	0
+Giant	6	3,040	192	128	0
+Giant	7	3,344	211	140	0
+Giant	8	3,667	231	154	0
+Giant	9	4,028	254	169	0
+Giant	10	4,427	279	186	0
+Giant	11	4,864	307	204	0
+Musketeer	1	340	100	90	0
+Musketeer	2	374	110	100	0
+Musketeer	3	411	121	110	0
+Musketeer	4	452	133	120	0
+Musketeer	5	496	146	132	0
+Musketeer	6	544	160	145	0
+Musketeer	7	598	176	160	0
+Musketeer	8	656	193	175	0
+Musketeer	9	720	212	192	0
+Musketeer	10	792	233	211	0
+Musketeer	11	870	256	232	0
+Mini P.E.K.K.A.	1	600	325	180	0
+Mini P.E.K.K.A.	2	660	357	198	0
+Mini P.E.K.K.A.	3	726	393	216	0
+Mini P.E.K.K.A.	4	798	432	240	0
+Mini P.E.K.K.A.	5	876	474	263	0
+Mini P.E.K.K.A.	6	960	520	288	0
+Mini P.E.K.K.A.	7	1,056	572	317	0
+Mini P.E.K.K.A.	8	1,158	627	348	0
+Mini P.E.K.K.A.	9	1,272	689	382	0
+Mini P.E.K.K.A.	10	1,398	757	420	0
+Mini P.E.K.K.A.	11	1,536	832	462	0
+Valkyrie	1	880	120	80	0
+Valkyrie	2	968	132	88	0
+Valkyrie	3	1,064	145	96	0
+Valkyrie	4	1,170	159	106	0
+Valkyrie	5	1,284	175	116	0
+Valkyrie	6	1,408	192	128	0
+Valkyrie	7	1,548	211	140	0
+Valkyrie	8	1,698	231	154	0
+Valkyrie	9	1,865	254	169	0
+Valkyrie	10	2,050	279	186	0
+Valkyrie	11	2,252	307	204	0
+Hog Rider	1	800	150	100	0
+Hog Rider	2	880	165	110	0
+Hog Rider	3	968	181	120	0
+Hog Rider	4	1,064	199	132	0
+Hog Rider	5	1,168	219	146	0
+Hog Rider	6	1,280	240	160	0
+Hog Rider	7	1,408	264	176	0
+Hog Rider	8	1,544	289	192	0
+Hog Rider	9	1,696	318	212	0
+Hog Rider	10	1,864	349	232	0
+Hog Rider	11	2,048	384	256	0
+Wizard	1	340	130	81	0
+Wizard	2	374	143	89	0
+Wizard	3	411	157	98	0
+Wizard	4	452	172	107	0
+Wizard	5	496	189	118	0
+Wizard	6	544	208	130	0
+Wizard	7	598	228	142	0
+Wizard	8	656	250	156	0
+Wizard	9	720	275	171	0
+Wizard	10	792	302	188	0
+Wizard	11	870	332	207	0
+Mega Minion	1	395	153	109	0
+Mega Minion	2	434	168	120	0
+Mega Minion	3	477	185	132	0
+Mega Minion	4	525	203	145	0
+Mega Minion	5	576	223	159	0
+Mega Minion	6	632	244	174	0
+Mega Minion	7	695	269	192	0
+Mega Minion	8	762	295	210	0
+Mega Minion	9	837	324	231	0
+Mega Minion	10	920	356	254	0
+Mega Minion	11	1,011	391	279	0
+Three Musketeers	1	340	100	90	0
+Three Musketeers	2	374	110	100	0
+Three Musketeers	3	411	121	110	0
+Three Musketeers	4	452	133	120	0
+Three Musketeers	5	496	146	132	0
+Three Musketeers	6	544	160	145	0
+Three Musketeers	7	598	176	160	0
+Three Musketeers	8	656	193	175	0
+Three Musketeers	9	720	212	192	0
+Three Musketeers	10	792	233	211	0
+Three Musketeers	11	870	256	232	0
+Ice Golem	1	625	40	16	40
+Ice Golem	2	687	44	17	44
+Ice Golem	3	756	48	19	48
+Ice Golem	4	831	53	21	53
+Ice Golem	5	912	58	23	58
+Ice Golem	6	1,000	64	25	64
+Ice Golem	7	1,100	70	28	70
+Ice Golem	8	1,206	77	30	77
+Ice Golem	9	1,325	84	33	84
+Ice Golem	10	1,436	93	37	93
+Ice Golem	11	1,600	102	40	102
+Baby Dragon	1	800	100	62	0
+Baby Dragon	2	880	110	68	0
+Baby Dragon	3	968	121	75	0
+Baby Dragon	4	1,064	133	83	0
+Baby Dragon	5	1,168	146	91	0
+Baby Dragon	6	1,280	160	100	0
+Baby Dragon	7	1,408	176	110	0
+Baby Dragon	8	1,544	193	120	0
+Prince	1	1,100	245	163	490
+Prince	2	1,210	269	179	538
+Prince	3	1,331	296	197	592
+Prince	4	1,463	325	216	650
+Prince	5	1,606	357	238	714
+Prince	6	1,760	392	261	784
+Prince	7	1,936	430	286	860
+Prince	8	2,123	472	314	944
+Witch	1	500	49	70	6
+Witch	2	550	53	75	7
+Witch	3	605	59	84	8
+Witch	4	665	65	92	9
+Witch	5	730	71	101	10
+Witch	6	800	78	111	11
+Witch	7	880	86	122	12
+Witch	8	965	94	134	13
+Skeleton Army	1	51	51	51	0
+Skeleton Army	2	56	56	56	0
+Skeleton Army	3	61	61	61	0
+Skeleton Army	4	67	67	67	0
+Skeleton Army	5	74	74	74	0
+Skeleton Army	6	81	81	81	0
+Skeleton Army	7	89	89	89	0
+Skeleton Army	8	98	98	98	0
+Giant Skeleton	1	2,000	120	80	720
+Giant Skeleton	2	2,200	132	88	792
+Giant Skeleton	3	2,420	145	96	871
+Giant Skeleton	4	2,660	159	106	957
+Giant Skeleton	5	2,920	175	116	1,051
+Giant Skeleton	6	3,200	192	128	1,152
+Giant Skeleton	7	3,520	211	141	1,267
+Giant Skeleton	8	3,860	231	154	1,389
+Balloon	1	1,050	600	200	100
+Balloon	2	1,155	660	220	110
+Balloon	3	1,270	726	242	121
+Balloon	4	1,396	798	266	133
+Balloon	5	1,533	876	292	146
+Balloon	6	1,680	960	320	160
+Balloon	7	1,848	1,056	352	176
+Balloon	8	2,026	1,158	386	193
+P.E.K.K.A.	1	2,600	510	283	0
+P.E.K.K.A.	2	2,860	561	311	0
+P.E.K.K.A.	3	3,146	617	342	0
+P.E.K.K.A.	4	3,458	678	376	0
+P.E.K.K.A.	5	3,796	744	413	0
+P.E.K.K.A.	6	4,160	816	453	0
+P.E.K.K.A.	7	4,576	897	498	0
+P.E.K.K.A.	8	5,018	984	546	0
+Golem	1	3,200	195	78	195
+Golem	2	3,520	214	85	214
+Golem	3	3,872	235	94	235
+Golem	4	4,256	259	103	259
+Golem	5	4,672	284	113	284
+Golem	6	5,120	312	124	312
+Golem	7	5,632	343	137	343
+Golem	8	6,176	376	150	376
+Golemite	1	650	40	16	40
+Golemite	2	715	44	17	44
+Golemite	3	786	48	19	48
+Golemite	4	864	53	21	53
+Golemite	5	949	58	23	58
+Golemite	6	1,040	64	25	64
+Golemite	7	1,144	70	28	70
+Golemite	8	1,254	77	30	77
+Dark Prince	1	900	145	96	290
+Dark Prince	2	990	159	106	318
+Dark Prince	3	1089	175	116	350
+Dark Prince	4	1197	192	128	384
+Dark Prince	5	1314	211	140	422
+Dark Prince	6	1440	232	154	464
+Dark Prince	7	1584	255	170	510
+Dark Prince	8	1737	279	186	558
+Guards	1	215	65	54	0
+Guards	2	236	71	59	0
+Guards	3	259	78	65	0
+Guards	4	285	86	71	0
+Guards	5	313	94	78	0
+Guards	6	344	104	86	0
+Guards	7	378	114	95	0
+Guards	8	414	125	104	0
+Bowler	1	1,200	180	72	0
+Bowler	2	1,320	198	79	0
+Bowler	3	1,452	217	86	0
+Bowler	4	1,596	239	95	0
+Bowler	5	1,752	262	104	0
+Bowler	6	1,920	288	115	0
+Bowler	7	2,112	316	126	0
+Bowler	8	2,316	347	13	0
