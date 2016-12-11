@@ -1,5 +1,5 @@
 ## Mac file
 .DS_Store
 
-## Notebook checkpoint
-.ipynb_checkpoints/*
+# Jupyter Notebook
+.ipynb_checkpoints
