@@ -4,14 +4,14 @@ Knight	2	726	82	74	0
 Knight	3	798	90	81	0
 Knight	4	877	99	90	0
 Knight	5	963	109	99	0
-Knight	6	1,056	120	109	0
-Knight	7	1,161	132	120	0
-Knight	8	1,273	144	130	0
-Knight	9	1,399	159	144	0
-Knight	10	1,537	174	158	0
-Knight	11	1,689	192	174	0
-Knight	12	1,854	210	190	0
-Knight	13	2,039	231	210	0
+Knight	6	1056	120	109	0
+Knight	7	1161	132	120	0
+Knight	8	1273	144	130	0
+Knight	9	1399	159	144	0
+Knight	10	1537	174	158	0
+Knight	11	1689	192	174	0
+Knight	12	1854	210	190	0
+Knight	13	2039	231	210	0
 Archers	1	125	41	34	0
 Archers	2	137	45	37	0
 Archers	3	151	49	40	0
@@ -129,19 +129,19 @@ Fire Spirits	10	100	186	186	0
 Fire Spirits	11	110	204	204	0
 Fire Spirits	12	120	224	224	0
 Fire Spirits	13	132	247	247	0
-Royal Giant	1	1,200	75	44	0
-Royal Giant	2	1,320	85	50	0
-Royal Giant	3	1,452	94	55	0
-Royal Giant	4	1,596	103	60	0
-Royal Giant	5	1,752	109	64	0
-Royal Giant	6	1,920	120	70	0
-Royal Giant	7	2,112	132	77	0
-Royal Giant	8	2,316	144	84	0
-Royal Giant	9	2,544	159	93	0
-Royal Giant	10	2,796	174	102	0
-Royal Giant	11	3,072	192	112	0
-Royal Giant	12	3,372	210	123	0
-Royal Giant	13	3,708	231	135	0
+Royal Giant	1	1200	75	44	0
+Royal Giant	2	1320	85	50	0
+Royal Giant	3	1452	94	55	0
+Royal Giant	4	1596	103	60	0
+Royal Giant	5	1752	109	64	0
+Royal Giant	6	1920	120	70	0
+Royal Giant	7	2112	132	77	0
+Royal Giant	8	2316	144	84	0
+Royal Giant	9	2544	159	93	0
+Royal Giant	10	2796	174	102	0
+Royal Giant	11	3072	192	112	0
+Royal Giant	12	3372	210	123	0
+Royal Giant	13	3708	231	135	0
 Elite Barbarians	1	420	110	73	0
 Elite Barbarians	2	462	121	80	0
 Elite Barbarians	3	508	133	88	0
@@ -152,9 +152,9 @@ Elite Barbarians	7	739	193	128	0
 Elite Barbarians	8	810	212	141	0
 Elite Barbarians	9	890	233	155	0
 Elite Barbarians	10	978	256	170	0
-Elite Barbarians	11	1,075	281	187	0
-Elite Barbarians	12	1,180	309	206	0
-Elite Barbarians	13	1,297	339	226	0
+Elite Barbarians	11	1075	281	187	0
+Elite Barbarians	12	1180	309	206	0
+Elite Barbarians	13	1297	339	226	0
 Ice Spirit	1	90	50	50	0
 Ice Spirit	2	99	55	55	0
 Ice Spirit	3	108	60	60	0
@@ -168,17 +168,17 @@ Ice Spirit	10	209	116	116	0
 Ice Spirit	11	230	128	128	0
 Ice Spirit	12	252	140	140	0
 Ice Spirit	13	278	154	154	0
-Giant	1	1,900	120	80	0
-Giant	2	2,090	132	88	0
-Giant	3	2,299	145	96	0
-Giant	4	2,527	159	106	0
-Giant	5	2,774	175	116	0
-Giant	6	3,040	192	128	0
-Giant	7	3,344	211	140	0
-Giant	8	3,667	231	154	0
-Giant	9	4,028	254	169	0
-Giant	10	4,427	279	186	0
-Giant	11	4,864	307	204	0
+Giant	1	1900	120	80	0
+Giant	2	2090	132	88	0
+Giant	3	2299	145	96	0
+Giant	4	2527	159	106	0
+Giant	5	2774	175	116	0
+Giant	6	3040	192	128	0
+Giant	7	3344	211	140	0
+Giant	8	3667	231	154	0
+Giant	9	4028	254	169	0
+Giant	10	4427	279	186	0
+Giant	11	4864	307	204	0
 Musketeer	1	340	100	90	0
 Musketeer	2	374	110	100	0
 Musketeer	3	411	121	110	0
@@ -196,33 +196,33 @@ Mini P.E.K.K.A.	3	726	393	216	0
 Mini P.E.K.K.A.	4	798	432	240	0
 Mini P.E.K.K.A.	5	876	474	263	0
 Mini P.E.K.K.A.	6	960	520	288	0
-Mini P.E.K.K.A.	7	1,056	572	317	0
-Mini P.E.K.K.A.	8	1,158	627	348	0
-Mini P.E.K.K.A.	9	1,272	689	382	0
-Mini P.E.K.K.A.	10	1,398	757	420	0
-Mini P.E.K.K.A.	11	1,536	832	462	0
+Mini P.E.K.K.A.	7	1056	572	317	0
+Mini P.E.K.K.A.	8	1158	627	348	0
+Mini P.E.K.K.A.	9	1272	689	382	0
+Mini P.E.K.K.A.	10	1398	757	420	0
+Mini P.E.K.K.A.	11	1536	832	462	0
 Valkyrie	1	880	120	80	0
 Valkyrie	2	968	132	88	0
-Valkyrie	3	1,064	145	96	0
-Valkyrie	4	1,170	159	106	0
-Valkyrie	5	1,284	175	116	0
-Valkyrie	6	1,408	192	128	0
-Valkyrie	7	1,548	211	140	0
-Valkyrie	8	1,698	231	154	0
-Valkyrie	9	1,865	254	169	0
-Valkyrie	10	2,050	279	186	0
-Valkyrie	11	2,252	307	204	0
+Valkyrie	3	1064	145	96	0
+Valkyrie	4	1170	159	106	0
+Valkyrie	5	1284	175	116	0
+Valkyrie	6	1408	192	128	0
+Valkyrie	7	1548	211	140	0
+Valkyrie	8	1698	231	154	0
+Valkyrie	9	1865	254	169	0
+Valkyrie	10	2050	279	186	0
+Valkyrie	11	2252	307	204	0
 Hog Rider	1	800	150	100	0
 Hog Rider	2	880	165	110	0
 Hog Rider	3	968	181	120	0
-Hog Rider	4	1,064	199	132	0
-Hog Rider	5	1,168	219	146	0
-Hog Rider	6	1,280	240	160	0
-Hog Rider	7	1,408	264	176	0
-Hog Rider	8	1,544	289	192	0
-Hog Rider	9	1,696	318	212	0
-Hog Rider	10	1,864	349	232	0
-Hog Rider	11	2,048	384	256	0
+Hog Rider	4	1064	199	132	0
+Hog Rider	5	1168	219	146	0
+Hog Rider	6	1280	240	160	0
+Hog Rider	7	1408	264	176	0
+Hog Rider	8	1544	289	192	0
+Hog Rider	9	1696	318	212	0
+Hog Rider	10	1864	349	232	0
+Hog Rider	11	2048	384	256	0
 Wizard	1	340	130	81	0
 Wizard	2	374	143	89	0
 Wizard	3	411	157	98	0
@@ -244,7 +244,7 @@ Mega Minion	7	695	269	192	0
 Mega Minion	8	762	295	210	0
 Mega Minion	9	837	324	231	0
 Mega Minion	10	920	356	254	0
-Mega Minion	11	1,011	391	279	0
+Mega Minion	11	1011	391	279	0
 Three Musketeers	1	340	100	90	0
 Three Musketeers	2	374	110	100	0
 Three Musketeers	3	411	121	110	0
@@ -261,28 +261,28 @@ Ice Golem	2	687	44	17	44
 Ice Golem	3	756	48	19	48
 Ice Golem	4	831	53	21	53
 Ice Golem	5	912	58	23	58
-Ice Golem	6	1,000	64	25	64
-Ice Golem	7	1,100	70	28	70
-Ice Golem	8	1,206	77	30	77
-Ice Golem	9	1,325	84	33	84
-Ice Golem	10	1,436	93	37	93
-Ice Golem	11	1,600	102	40	102
+Ice Golem	6	1000	64	25	64
+Ice Golem	7	1100	70	28	70
+Ice Golem	8	1206	77	30	77
+Ice Golem	9	1325	84	33	84
+Ice Golem	10	1436	93	37	93
+Ice Golem	11	1600	102	40	102
 Baby Dragon	1	800	100	62	0
 Baby Dragon	2	880	110	68	0
 Baby Dragon	3	968	121	75	0
-Baby Dragon	4	1,064	133	83	0
-Baby Dragon	5	1,168	146	91	0
-Baby Dragon	6	1,280	160	100	0
-Baby Dragon	7	1,408	176	110	0
-Baby Dragon	8	1,544	193	120	0
-Prince	1	1,100	245	163	490
-Prince	2	1,210	269	179	538
-Prince	3	1,331	296	197	592
-Prince	4	1,463	325	216	650
-Prince	5	1,606	357	238	714
-Prince	6	1,760	392	261	784
-Prince	7	1,936	430	286	860
-Prince	8	2,123	472	314	944
+Baby Dragon	4	1064	133	83	0
+Baby Dragon	5	1168	146	91	0
+Baby Dragon	6	1280	160	100	0
+Baby Dragon	7	1408	176	110	0
+Baby Dragon	8	1544	193	120	0
+Prince	1	1100	245	163	490
+Prince	2	1210	269	179	538
+Prince	3	1331	296	197	592
+Prince	4	1463	325	216	650
+Prince	5	1606	357	238	714
+Prince	6	1760	392	261	784
+Prince	7	1936	430	286	860
+Prince	8	2123	472	314	944
 Witch	1	500	49	70	6
 Witch	2	550	53	75	7
 Witch	3	605	59	84	8
@@ -299,46 +299,46 @@ Skeleton Army	5	74	74	74	0
 Skeleton Army	6	81	81	81	0
 Skeleton Army	7	89	89	89	0
 Skeleton Army	8	98	98	98	0
-Giant Skeleton	1	2,000	120	80	720
-Giant Skeleton	2	2,200	132	88	792
-Giant Skeleton	3	2,420	145	96	871
-Giant Skeleton	4	2,660	159	106	957
-Giant Skeleton	5	2,920	175	116	1,051
-Giant Skeleton	6	3,200	192	128	1,152
-Giant Skeleton	7	3,520	211	141	1,267
-Giant Skeleton	8	3,860	231	154	1,389
-Balloon	1	1,050	600	200	100
-Balloon	2	1,155	660	220	110
-Balloon	3	1,270	726	242	121
-Balloon	4	1,396	798	266	133
-Balloon	5	1,533	876	292	146
-Balloon	6	1,680	960	320	160
-Balloon	7	1,848	1,056	352	176
-Balloon	8	2,026	1,158	386	193
-P.E.K.K.A.	1	2,600	510	283	0
-P.E.K.K.A.	2	2,860	561	311	0
-P.E.K.K.A.	3	3,146	617	342	0
-P.E.K.K.A.	4	3,458	678	376	0
-P.E.K.K.A.	5	3,796	744	413	0
-P.E.K.K.A.	6	4,160	816	453	0
-P.E.K.K.A.	7	4,576	897	498	0
-P.E.K.K.A.	8	5,018	984	546	0
-Golem	1	3,200	195	78	195
-Golem	2	3,520	214	85	214
-Golem	3	3,872	235	94	235
-Golem	4	4,256	259	103	259
-Golem	5	4,672	284	113	284
-Golem	6	5,120	312	124	312
-Golem	7	5,632	343	137	343
-Golem	8	6,176	376	150	376
+Giant Skeleton	1	2000	120	80	720
+Giant Skeleton	2	2200	132	88	792
+Giant Skeleton	3	2420	145	96	871
+Giant Skeleton	4	2660	159	106	957
+Giant Skeleton	5	2920	175	116	1051
+Giant Skeleton	6	3200	192	128	1152
+Giant Skeleton	7	3520	211	141	1267
+Giant Skeleton	8	3860	231	154	1389
+Balloon	1	1050	600	200	100
+Balloon	2	1155	660	220	110
+Balloon	3	1270	726	242	121
+Balloon	4	1396	798	266	133
+Balloon	5	1533	876	292	146
+Balloon	6	1680	960	320	160
+Balloon	7	1848	1056	352	176
+Balloon	8	2026	1158	386	193
+P.E.K.K.A.	1	2600	510	283	0
+P.E.K.K.A.	2	2860	561	311	0
+P.E.K.K.A.	3	3146	617	342	0
+P.E.K.K.A.	4	3458	678	376	0
+P.E.K.K.A.	5	3796	744	413	0
+P.E.K.K.A.	6	4160	816	453	0
+P.E.K.K.A.	7	4576	897	498	0
+P.E.K.K.A.	8	5018	984	546	0
+Golem	1	3200	195	78	195
+Golem	2	3520	214	85	214
+Golem	3	3872	235	94	235
+Golem	4	4256	259	103	259
+Golem	5	4672	284	113	284
+Golem	6	5120	312	124	312
+Golem	7	5632	343	137	343
+Golem	8	6176	376	150	376
 Golemite	1	650	40	16	40
 Golemite	2	715	44	17	44
 Golemite	3	786	48	19	48
 Golemite	4	864	53	21	53
 Golemite	5	949	58	23	58
-Golemite	6	1,040	64	25	64
-Golemite	7	1,144	70	28	70
-Golemite	8	1,254	77	30	77
+Golemite	6	1040	64	25	64
+Golemite	7	1144	70	28	70
+Golemite	8	1254	77	30	77
 Dark Prince	1	900	145	96	290
 Dark Prince	2	990	159	106	318
 Dark Prince	3	1089	175	116	350
@@ -355,11 +355,11 @@ Guards	5	313	94	78	0
 Guards	6	344	104	86	0
 Guards	7	378	114	95	0
 Guards	8	414	125	104	0
-Bowler	1	1,200	180	72	0
-Bowler	2	1,320	198	79	0
-Bowler	3	1,452	217	86	0
-Bowler	4	1,596	239	95	0
-Bowler	5	1,752	262	104	0
-Bowler	6	1,920	288	115	0
-Bowler	7	2,112	316	126	0
-Bowler	8	2,316	347	13	0
+Bowler	1	1200	180	72	0
+Bowler	2	1320	198	79	0
+Bowler	3	1452	217	86	0
+Bowler	4	1596	239	95	0
+Bowler	5	1752	262	104	0
+Bowler	6	1920	288	115	0
+Bowler	7	2112	316	126	0
+Bowler	8	2316	347	13	0
